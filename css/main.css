@@ -33,4 +33,10 @@ html {
   color: #fff;
   position: absolute;
   bottom: 1.5rem;
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+.content {
+  width: 100%;
 }
